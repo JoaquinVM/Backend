@@ -8,5 +8,5 @@ jobs:
       - uses: actions/checkout@v1
       - name: Listado
         run:  ls
-      - name: Mostrar:
+      - name: Mostrar
         run: cat README.md
